@@ -9,3 +9,7 @@
   <br>
   <input type="submit" value="Login">
 </form>
+
+  <?php
+    echo 'Bye';
+  ?>
